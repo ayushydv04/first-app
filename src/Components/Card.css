@@ -1,0 +1,8 @@
+.cards{
+    border: 2px solid black;
+    width: 20vw;
+    margin: 30px;
+    /* padding: 15px; */
+    height: 35vh;
+    background-color: rgb(202, 239, 239);
+}
